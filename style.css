@@ -1,0 +1,28 @@
+body {
+    background-color: cadetblue;
+    text-align: center;
+}
+h1 {
+    color:darkorange;
+    text-align: center;
+}
+p {
+    color:darkred;
+    text-align: center;
+}
+.navs a {
+    color:blue;
+    text-decoration: none;
+}
+.navs a:hover {
+    color:red;
+    text-decoration: none;
+}
+.nav a {
+    color:blue;
+    text-decoration: none;
+}
+.nav a:hover {
+    color:red;
+    text-decoration: none;
+}
